@@ -1,7 +1,7 @@
 # Main Code Contributions:
 # SPDX-FileCopyrightText: 2020 Team 4160 "The Robucs" Mission Bay HighSchool
 # SPDX-License-Identifier: MIT
-# Some Code greatfully resued from:
+# Some Code greatfully reused from:
 # SPDX-FileCopyrightText: 2019 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 #========================================================
